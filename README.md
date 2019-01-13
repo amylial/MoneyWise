@@ -18,20 +18,20 @@
 
 </p>
 
-🔥 __React News__ is a React App showing news results from more than 70 sources. Uses data from [News API](https://newsapi.org/), it's responsive and super snappy for quick switching thanks to React Virtual DOM 🔥
+🔥 MoneyWise is a React App showing news results from more than 90 sources. Uses data from [News API](https://newsapi.org/), it's responsive and super snappy for quick switching thanks to React Virtual DOM 
 
 <p><a href="http://news-app.surge.sh/" class="btn btn-primary btn-md">Launch App</a></p>
 </div>
 
 ## Features
 
-* ⚒️ __Simple__: Bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and using [React](https://facebook.github.io/react/)
+* __Simple__: Bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and using [React](https://facebook.github.io/react/)
 
-* 📊 __Real-time__: Real time data obtained from the leading news resource [News API](https://newsapi.org/)
+*  __Real-time__: Real time data obtained from the leading news resource [News API](https://newsapi.org/)
 
-* 📱 __Responsive__: Made mobile responsive with Flexbox
+*  __Responsive__: Made mobile responsive with Flexbox
 
-* 🔥 __Live__: Deployed with [Surge](https://surge.sh/)
+*  __Live__: Deployed with [Surge](https://surge.sh/)
 
 <!---  SCREENSHOOT   -->
 
