@@ -18,7 +18,7 @@
 
 </p>
 
-🔥 MoneyWise is a React App showing news results from more than 90 sources. Uses data from [News API](https://newsapi.org/), it's responsive and super snappy for quick switching thanks to React Virtual DOM 
+ MoneyWise is a React App showing news results from more than 90 sources. Uses data from [News API](https://newsapi.org/), it's responsive and super snappy for quick switching thanks to React Virtual DOM 
 
 <p><a href="http://news-app.surge.sh/" class="btn btn-primary btn-md">Launch App</a></p>
 </div>
